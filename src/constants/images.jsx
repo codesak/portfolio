@@ -35,8 +35,10 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import saksham from '../assets/Saksham Verma.png'
+import abc from '../assets/abc.png'
 
 export default {
+  abc,
   saksham,
   email,
   mobile,
