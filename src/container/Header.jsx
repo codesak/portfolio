@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion';
 import { images } from '../constants'
 import '../styles/Header.scss'
-import { AppWrap, MotionWrap } from '../wrapper'
+import { AppWrap } from '../wrapper'
 
 const scaleVariants = {
   whileInView: {
