@@ -32,7 +32,7 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
-import saksham from '../assets/Saksham Verma.png'
+import saksham from '../assets/Saksham Verma.jpg'
 import abc from '../assets/abc.png'
 import profileme from '../assets/profile.c4d00a7672c242372aee.png'
 
